@@ -1,7 +1,7 @@
    // Global Variables (useful so the callback functions know these values)
     //Client ID and APU key from the Developer Console
-    var API_KEY = 'AIzaSyA4XwNE0KQybtdNeGD1zYTLhSxlq6KjPxM';
-    var CLIENT_ID = '102722373468-scqb2ub2d0gjt5ntfqe055j9330bkv25.apps.googleusercontent.com';
+    var API_KEY = '';
+    var CLIENT_ID = '';
     //Array of API discovery doc URLs for APIs used by the quickstart
     var DISCOVERY_DOCS = ["https://sheets.googleapis.com/$discovery/rest?version=v4"];
     //authorization scope required by the API; multiple scops can be included, separated by spaces.
